@@ -1,0 +1,28 @@
+{
+  "name": "iknow-studytime",
+  "description": "A bookmarklet to get the total study time of iKnow as a CSV file",
+  "version": "0.0.1",
+  "author": "shingo45endo",
+  "browserslist": [
+    "last 1 versions"
+  ],
+  "bugs": {
+    "url": "https://github.com/shingo45endo/iknow-studytime/issues"
+  },
+  "devDependencies": {
+    "eslint": "^4.14.0",
+    "fixpack": "^2.3.1"
+  },
+  "homepage": "https://github.com/shingo45endo/iknow-studytime#readme",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shingo45endo/iknow-studytime.git"
+  },
+  "scripts": {
+    "fixpack": "fixpack",
+    "lint": "eslint *.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
