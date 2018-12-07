@@ -15,7 +15,7 @@ Usage
 	* If your browser doesn't support bookmarklets (ex. Microsoft Edge), after entering Developer Mode by hitting <kbd>F12</kbd>, input the following code snippet on Console tab.
 
 ```javascript
-(function(){var a='https://rawgit.com/shingo45endo/iknow-studytime/master/iknow-studytime.js?'+Date.now();var d=document;var e=d.createElement('script');e.charset='utf-8';e.src=a;d.getElementsByTagName('head')[0].appendChild(e);})();
+(function(){var a='https://cdn.jsdelivr.net/gh/shingo45endo/iknow-studytime/iknow-studytime.js?'+Date.now();var d=document;var e=d.createElement('script');e.charset='utf-8';e.src=a;d.getElementsByTagName('head')[0].appendChild(e);})();
 ```
 
 
